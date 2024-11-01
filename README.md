@@ -5,7 +5,6 @@ This Django project is designed to scrape product data from Amazon using Beautif
 ---
 
 ## Table of Contents
-- [Requirements](#requirements)
 - [Setup Guide](#setup-guide)
   - [1. Clone Repository](#1-clone-repository)
   - [2. Create Virtual Environment](#2-create-virtual-environment)
